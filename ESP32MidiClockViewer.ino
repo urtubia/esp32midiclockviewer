@@ -4,7 +4,7 @@
 #include <BLEServer.h>
 #include <BLE2902.h>
 
-// Depends on the NeoPixelBus 
+// Depends on the NeoPixelBus library
 // https://github.com/Makuna/NeoPixelBus
 // and Espressif esp32
 // https://github.com/espressif/arduino-esp32
